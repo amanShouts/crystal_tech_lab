@@ -1,2 +1,6 @@
-# crystal_tech_lab
-assignment for cystal tech lab
+# Cyrstal Tech Lab Assignment
+
+
+
+
+- [Deployment Link on Netlify](https://crystal-tech-lab.netlify.app/) 
